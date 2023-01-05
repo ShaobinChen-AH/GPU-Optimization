@@ -1,3 +1,5 @@
+//从warp divergence这个角度优化
+
 #include <bits/stdc++.h>
 #include <cuda.h>
 #include "cuda_runtime.h"
