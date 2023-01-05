@@ -1,3 +1,5 @@
+//最原始的代码，实现数组元素相加的功能，后续我们会从各个角度将此程序优化
+
 #include <bits/stdc++.h>
 #include <cuda.h>
 #include "cuda_runtime.h"
